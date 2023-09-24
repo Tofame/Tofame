@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Tofame
-- 👀 I’m interested in tibia, workout, chess, table tennis, programming (Java, Python, Lua)
 - 🌱 I’m currently learning lua basics, java basics.
 - 📫 How to reach me: add on discord -> Tofame
 
