@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Tofame
-- 🌱 I’m currently learning java and starting march 2024 - C++.
-- 📝 C++ and Lua I'm using in an MMORPG project that I'm developing with a team (me and two other members)
-- 📝 As for Java - so far I'm using it for university assignments/exams and also in an open-source project that I'm developing by myself (JavaR)
-- 📫 How to reach me: add on discord: Tofame
-- 🥐 I like learning new things, my hobbies are; working out, playing chess and coding :D
+# 👋 Hello there
+- 🌱 Always eager to learn new things!
+- 📝 Got into C++ and Lua in an hobby MMORPG project that I was developing with a team of three
+- 📝 Nowadays I seek to broaden my horizons in IT, by dabbling into more programming languages.
+- 🥐 My hobbies are: working out, playing chess and programming!
+
+# Skills
+[![Skills](https://skillicons.dev/icons?i=cpp,java,cs,dotnet,py,lua,mysql,sqlite)](https://skillicons.dev)
+
+# Tools
+[![Tools](https://skillicons.dev/icons?i=github,git,visualstudio,maven,pycharm,idea,rider,vscode,postman)](https://skillicons.dev)
 
 <!---
 Tofame/Tofame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
