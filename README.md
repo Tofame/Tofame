@@ -5,7 +5,7 @@
 - 🥐 My hobbies are: working out, playing chess and programming!
 
 # Skills
-[![Skills](https://skillicons.dev/icons?i=cpp,java,cs,dotnet,py,lua,mysql,sqlite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,java,ruby,cs,dotnet,py,lua,mysql,sqlite)](https://skillicons.dev)
 
 # Tools
 [![Tools](https://skillicons.dev/icons?i=github,git,visualstudio,maven,pycharm,idea,rider,vscode,postman)](https://skillicons.dev)
